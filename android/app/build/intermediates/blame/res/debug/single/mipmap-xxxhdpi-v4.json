@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mbefokam/Documents/Android Release Success/BibleApplication/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/mbefokam/Documents/Android Release Success/BibleApplication/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mbefokam/Documents/Android Release Success/BibleApplication/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher_foreground.png",
+        "source": "/Users/mbefokam/Documents/Android Release Success/BibleApplication/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mbefokam/Documents/Android Release Success/BibleApplication/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/mbefokam/Documents/Android Release Success/BibleApplication/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

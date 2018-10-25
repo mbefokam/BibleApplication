@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mbefokam/Documents/v1Bible /BibleApplication/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/Users/mbefokam/Documents/v1Bible /BibleApplication/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mbefokam/Documents/v1Bible /BibleApplication/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/Users/mbefokam/Documents/v1Bible /BibleApplication/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
